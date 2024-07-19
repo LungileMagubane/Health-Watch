@@ -1,6 +1,6 @@
 # Health-Watch - AI platform for African Healthcare Facilities
 
-Welcome to the Health watch repository!Health Watch is an AI-driven platform that detect and monitor disease outbreaks in Africa before the disease spread. Health Watch uses AI and Machine learning algorithms to identify unusual patterns that may indicate emerging health threats through the analysis of data from various data sources such as social media, news report, and medical literature.
+Welcome to the Health watch repository! Health Watch is an AI-driven platform that detect and monitor disease outbreaks in Africa before the disease spread. Health Watch uses AI and Machine learning algorithms to identify unusual patterns that may indicate emerging health threats through the analysis of data from various data sources such as social media, news report, and medical literature.
 
 ## Sructure 
 This repository is structured as follows:
