@@ -2,7 +2,7 @@
 
 Welcome to the Health watch repository! Health Watch is an AI-driven platform that detects and monitors disease outbreaks in Africa before they spread. Health Watch uses AI and machine learning algorithms to identify unusual patterns that may indicate emerging health threats through the analysis of data from various data sources, such as social media, news reports, and medical literature.
 
-## Sructure 
+## Structure 
 This repository is structured as follows:
 * Backend: This directory contains the backend code of the Health Watch platform, including database models, business logic, and the pre-processing steps of data to ensure that the data used for identifying patterns and trends is clean and of high quality. The backend code will be implemented using Node.js, PHP and laravel. The pre-processing of the data will be done using Python libraries such as Pandas and Numpy.
 
