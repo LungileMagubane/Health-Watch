@@ -7,7 +7,7 @@ This repository is structured as follows:
 * Backend: This directory contains the backend code of the Health Watch platform, including database models, business logic, and the pre-processing steps of data to ensure that the data used for identifying patterns and trends is clean and of high quality. The backend code will be implemented using Node.js, PHP. The pre-processing of the data will be done using Python libraries such as Pandas and Numpy.
 
 *  Frontend: Here we have the frontend code for our platform. This will be implemented using React, Tailwind and Bootstrap. We will also use HTML, CSS and Javascript
-*  Models: We will use Llama 2 and fine-tune it to fit the context of our platform
+*  Models: We will use GPT 3.5 and fine-tune it to fit the context of our platform
   
 
 ## Purpose 
