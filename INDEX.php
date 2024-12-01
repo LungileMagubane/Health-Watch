@@ -106,7 +106,7 @@
                 <h3>Contact Us</h3>
                 <p>HealthWatch Headquarters</p>
                 <p>Email: info@healthwatch.com</p>
-                <p>Phone: +123 456 7890</p>
+                <p>Phone: +254 456 7890</p>
             </div>
             <div class="footer-section follow-us">
                 <h3>Follow Us</h3>
