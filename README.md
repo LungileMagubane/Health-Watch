@@ -14,7 +14,7 @@ This repository is structured as follows:
 The purpose of this repository is to provide a collaborative space for development and improvement of the Health Watch platform. By making the repository publicly accessible, we aim to foster community engagement, allowing developers, contributors, and users to explore the codebase, report issues, and suggest enhancements.  We want other developers to help us improve on our platform and we also want to inspire other developers to improve on their code when working on their solutions.
 
 ## How Generative AI Models Power Health Watch
-Health Watch leverages GPT 3.5 model to fine-tune the model to tasks that are specific to Health Watch use cases.
+Health Vanguard leverages GPT 3.5 model to fine-tune the model to tasks that are specific to Health Watch use cases.
 
 * Simplified and user-friendly interface
 * Integration of Health information from diverse data sources
